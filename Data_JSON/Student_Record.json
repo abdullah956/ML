@@ -1,0 +1,82 @@
+[
+  {
+    "name": "John",
+    "overallgrade": "A",
+    "obedient": null ,
+    "researchscore": 85,
+    "projectscore": 92,
+    "recommend": "yes"
+  },
+  {
+    "name": "Alice",
+    "overallgrade": "B",
+    "obedient": "N",
+    "researchscore": 75,
+    "projectscore": 88,
+    "recommend": null
+  },
+  {
+    "name": "Bob",
+    "overallgrade": "C",
+    "obedient": "Y",
+    "researchscore": null,
+    "projectscore": 78,
+    "recommend": "no"
+  },
+  {
+    "name": "Eva",
+    "overallgrade": "B",
+    "obedient": "Y",
+    "researchscore": 79,
+    "projectscore": 85,
+    "recommend": "yes"
+  },
+  {
+    "name": "David",
+    "overallgrade": "A",
+    "obedient": "Y",
+    "researchscore": 92,
+    "projectscore": 96,
+    "recommend": "yes"
+  },
+  {
+    "name": "Sophia",
+    "overallgrade": "C",
+    "obedient": "N",
+    "researchscore": 70,
+    "projectscore": 82,
+    "recommend": "no"
+  },
+  {
+    "name": "Michael",
+    "overallgrade": "A",
+    "obedient": "Y",
+    "researchscore": 88,
+    "projectscore": 94,
+    "recommend": "yes"
+  },
+  {
+    "name": "Olivia",
+    "overallgrade": "B",
+    "obedient": "Y",
+    "researchscore": 81,
+    "projectscore": 90,
+    "recommend": "yes"
+  },
+  {
+    "name": "William",
+    "overallgrade": "D",
+    "obedient": "N",
+    "researchscore": 62,
+    "projectscore": 72,
+    "recommend": "no"
+  },
+  {
+    "name": "Mia",
+    "overallgrade": "A",
+    "obedient": "Y",
+    "researchscore": 91,
+    "projectscore": 98,
+    "recommend": "yes"
+  }
+]
